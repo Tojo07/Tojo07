@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tojo
-- 👀 I’m interested in data science/ML
-- 🌱 I’m currently learning topic modeling
-- 💞️ I’m looking to collaborate on any project involving data science and NLP
+- 👀 I’m interested in Software Development and data science/ML
+- 🌱 I’m currently a sophomore at Berea College, majoring in Computer Science
+- 💞️ I’m learning the MERN stack on the side by doing different projects
 - 📫 How to reach me: tsimalayheriniainatojo@gmail.com | 606-386-6618
 
 <!---
